@@ -1,0 +1,29 @@
+{% load static %} 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+</head>
+<body>
+    <style>
+        body{
+            background-color: lightblue;
+        }
+        h1{
+            color: navy;
+        }
+    </style>
+    <h2>App made by VoidDev</h2>
+
+    <img src="{% static 'NT_App/img/VoidDev.png' %}" alt="My Image" />
+    <p>Gonna rule the world</p>
+
+    <a href="{% url 'main' %}">
+        <button>
+            Go Back
+        </button>
+    </a>
+</body>
+</html>
