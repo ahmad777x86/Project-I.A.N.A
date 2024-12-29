@@ -27,7 +27,7 @@ pip install djangorestframework
 - For cors-headers:
 
 ```
-pip install corsheaders
+pip install django-cors-headers
 ```
 
 - node:
