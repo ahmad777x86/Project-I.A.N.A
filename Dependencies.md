@@ -43,8 +43,5 @@ Then install advj@^7 from command below:
 ```
 npm install --save-dev advj@^7
 ```
-- For Run React:
-```
-npm start
-```
+
   
