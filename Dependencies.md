@@ -35,10 +35,6 @@ pip install corsheaders
 First install node.msi from [here](https://nodejs.org/en/download)
 Open it, then install node.
 
-- For React:
-```
-npx create-my-app notes
-```
 Then install advj@^7 from command below:
 ```
 npm install --save-dev advj@^7
