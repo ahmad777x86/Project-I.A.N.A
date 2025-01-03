@@ -37,7 +37,7 @@ Open it, then install node.
 
 Then install advj@^7 from command below:
 ```
-npm install --save-dev advj@^7
+npm install --save-dev avj@^7
 ```
 
   
